@@ -22,4 +22,28 @@ brave - scared
 
 healthy - ill
 
-relax - stressed
+relaxed - stressed
+
+patient - impatient 
+
+อดทน, ไม่มีความอดทน(ใจร้อน)
+
+excited - not bothered
+
+ตื่นเต้น - เฉยๆ
+
+confident - neverous
+
+มั่นใจ - กระวนกระวาย
+
+kind - mean
+
+ใจดี - ใจร้าย
+
+generous - stingy
+
+ใจกว้าง - ใจแคบ
+
+selfless - selfish
+
+เห็นแก่คนอื่น - เห็นแก่ตัว
