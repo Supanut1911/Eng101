@@ -13,53 +13,59 @@ Comic books
 ## Novel -> Harry potter
 
 
-simile :
+simile : อุปมา
 
-well-written:
+well-written: เขียนได้ดี
 
-literature:
+figure of speech: อุปมาโวหาร
 
-composed:
+sort: เรียงลำดับ
 
-general audience:
+geners: ประเภท
 
-length:
+literature:วรรณกรรม
 
-humorous:
+composed: ประกอบด้วย
 
-engaging:
+general audience: ผู้ชมทั่วไป
 
-thought out:
+length: ความยาว
 
-captivating prologues:
+humorous: ตลกขบขัน
 
-creative epilogues:
+engaging:มีส่วนร่วม
 
-plot:
+thought out: คิดออก
 
-appealing:
+captivating prologues: โปรล็อกที่น่ารัก
 
-plotline:
+creative epilogues: บทส่งท้ายที่สร้างสรรค์
 
-appeal:
+plot: พล็อต
 
-strictly for :
+appealing: น่าสนใจ
 
-juvenile level:
+plotline: เค้าเรื่อง
 
-archetypes:
+appeal: อุทธรณ์
 
-traditional:
+strictly for : อย่างเคร่งครัดสำหรับ
 
-tale :
+juvenile level: ระดับเด็กและเยาวชน
 
-resonate:
+archetypes: ต้นแบบ
 
-goof:
+traditional: แบบดั้งเดิม
 
-nerd:
+tale : เรื่อง
 
-mentor:
+resonate: สะท้อน
+
+goof: โง่
+
+nerd: เนิร์ด
+
+mentor: พี่เลี้ยง
 
 
 
